@@ -13,11 +13,11 @@
 <div align="center">
 
 [![CV](https://img.shields.io/badge/-Ver%20mi%20CV-6A5ACD?style=for-the-badge&logo=readme&logoColor=white)](https://ricardoyone.github.io/CV---RICARDO-YONE-LEON-ESTELA/)
+[![Teléfono](https://img.shields.io/badge/-%2B51%20930236710-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+51930236710)
+[![RICARDOYONE@hotmail.com](https://img.shields.io/badge/RICARDOYONE@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RICARDOYONE@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-yon%C3%A9-le%C3%B3n-688762225/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RicardoYone)
-[![RICARDOYONE@hotmail.com](https://img.shields.io/badge/RICARDOYONE@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RICARDOYONE@hotmail.com)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/ricardoyone/projects)
-[![Teléfono](https://img.shields.io/badge/-%2B51%20930236710-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+51930236710)
 
 </div>
 
@@ -30,9 +30,9 @@ const Ricardo = {
   currentFocus: "Desarrollo de IoT e Integración de IA",
   passion: "Construir soluciones innovadoras con tecnología de vanguardia",
   motto: "Aprendizaje continuo y dar lo mejor de mí cada día",
-  workingOn: ["Plataformas de IoT","Integración de IA","Automatización de Procesos",],
-  learning: ["Aprendizaje Automático","Arquitectura en la Nube","Patrones Avanzados de React",],
-  askMeAbout: ["Desarrollo Web","IoT","Arquitectura de Sistemas","Diseño de API",],
+  workingOn: ["Plataformas de IoT", "Integración de IA", "Automatización de Procesos",],
+  learning: ["Aprendizaje Automático", "Arquitectura en la Nube", "Patrones Avanzados de React",],
+  askMeAbout: ["Desarrollo Web", "IoT","Arquitectura de Sistemas", "Diseño de API",],
   funFact:"¡Me encanta convertir problemas complejos en soluciones simples y atractivas! ✨",
 };
 ```
