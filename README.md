@@ -1,96 +1,111 @@
-# 👨‍💻 Ricardo Yoné León
+# 👋 ¡Hola! Soy Ricardo Yoné León
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQGgc2-bWapRmg/profile-displayphoto-shrink_800_800/B4EZVOnI_4GwAc-/0/1740780638549?e=1758153600&v=beta&t=0wBrUrPixU7Yg-KakH_PGLVCog4Vd2xnMWRcZygfLDQ" alt="Ricardo Yoné León" width="160" style="border-radius:50%;box-shadow:0 4px 16px #0003;animation: pulse 2s infinite;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;IoT+%26+AI+Developer;Always+learning+new+technologies" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![CV](https://img.shields.io/badge/-Ver%20mi%20CV-6A5ACD?style=for-the-badge&logo=readme&logoColor=white)](https://ricardoyone.github.io/CV---RICARDO-YONE-LEON-ESTELA/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-yon%C3%A9-le%C3%B3n-688762225/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RicardoYone)
+[![RICARDOYONE@hotmail.com](https://img.shields.io/badge/RICARDOYONE@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RICARDOYONE@hotmail.com)
+[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/ricardoyone/projects)
+[![Teléfono](https://img.shields.io/badge/-%2B51%20930236710-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+51930236710)
+
+</div>
+
+## 🚀 Sobre mí
+
+```javascript
+const Ricardo = {
+  location: "Lima, Perú 🇵🇪",
+  role: "Ingeniero de Sistemas y Desarrollador Full Stack",
+  currentFocus: "Desarrollo de IoT e Integración de IA",
+  passion: "Construir soluciones innovadoras con tecnología de vanguardia",
+  motto: "Aprendizaje continuo y dar lo mejor de mí cada día",
+  workingOn: ["Plataformas de IoT","Integración de IA","Automatización de Procesos",],
+  learning: ["Aprendizaje Automático","Arquitectura en la Nube","Patrones Avanzados de React",],
+  askMeAbout: ["Desarrollo Web","IoT","Arquitectura de Sistemas","Diseño de API",],
+  funFact:"¡Me encanta convertir problemas complejos en soluciones simples y atractivas! ✨",
+};
+```
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚡ Backend
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases
+
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoYone&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoYone&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+| 🌐 **IoT Platforms** | 🤖 **AI Integration** | 📊 **Data Analytics** |
+| :------------------: | :-------------------: | :-------------------: |
+| Custom IoT solutions |   Python AI systems   |  Power BI dashboards  |
+| Real-time monitoring |  Sensor integration   | Business intelligence |
+|  Process automation  |   Voice automation    |  Data visualization   |
+
+</div>
+
+## 🌟 Specializations
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌐-IoT%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI%20Integration-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀-Full%20Stack-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊-Data%20Analytics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡-Process%20Automation-red?style=for-the-badge" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=50&descAlign=center"/>
+</div>
+
+<div align="center">
   
-  <h2>🚀 Ingeniero de Sistemas | Desarrollador Web</h2>
-  <p>Lima, Perú &nbsp;|&nbsp; <a href="mailto:RICARDOYONE@hotmail.com">📧 Email</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/ricardo-yon%C3%A9-le%C3%B3n-688762225/">🔗 LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/RicardoYone">🐙 GitHub</a></p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=450&lines=Bienvenido+a+mi+GitHub!;Desarrollador+Full+Stack;Apasionado+por+la+IA+y+el+IoT;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas"/>
-</div>
-
----
-
-### ✨ Sobre mí
-
-- 💡 Apasionado por la tecnología, la automatización y la inteligencia artificial.
-- 🌱 Siempre aprendiendo algo nuevo: actualmente enfocado en IA aplicada a IoT y automatización por voz.
-- 🛠️ Stack favorito: **JavaScript, Python, C#, React, Angular, Vue, Azure**.
-- 🤝 Me encanta colaborar y compartir conocimiento con la comunidad.
-- 🎨 Fan de los diseños modernos y las interfaces atractivas.
-
----
-
-### 🧑‍💻 Habilidades Técnicas
-
-<div align="center">
-
-| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat) | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat) | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat) |
-| :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+**💡 "Striving to be better every day"** ⭐
 
 </div>
-
----
-
-### 🌟 Contribuciones y Proyectos
-
-- 🏆 **Top 5 proyectos destacados:**
-
-  - [Sistema IoT para monitoreo industrial](https://github.com/RicardoYone) 🚦
-  - [Dashboard de Power BI para análisis de datos](https://github.com/RicardoYone) 📊
-  - [Automatización de procesos con voz](https://github.com/RicardoYone) 🗣️
-  - [API REST para gestión de usuarios](https://github.com/RicardoYone) 🔗
-  - [Web personal con animaciones modernas](https://github.com/RicardoYone) 🎨
-
-- 📈 ¡Siempre abierto a colaborar en proyectos innovadores!
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoYone&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoYone&theme=radical" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RicardoYone&theme=radical" height="160" />
-</div>
-
----
-
-### 🚀 ¿En qué estoy trabajando?
-
-- 🤖 Integración de IA en sistemas IoT
-- 🗣️ Automatización de procesos con comandos de voz
-- 🌐 Nuevas tecnologías web y cloud
-
----
-
-### 📫 Contacto
-
-- Email: [RICARDOYONE@hotmail.com](mailto:RICARDOYONE@hotmail.com)
-- LinkedIn: [Ricardo Yoné León](https://www.linkedin.com/in/ricardo-yon%C3%A9-le%C3%B3n-688762225/)
-- GitHub: [RicardoYone](https://github.com/RicardoYone)
-
----
-
-<details>
-  <summary>⚡ Fun fact</summary>
-  <blockquote>
-    ¡Siempre busco aprender algo nuevo cada día y compartirlo con mi equipo!<br>
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
-  </blockquote>
-</details>
-
----
-
-<!-- Animación CSS para la imagen de perfil (solo visible en algunos visores) -->
-<style>
-@keyframes pulse {
-  0% { box-shadow: 0 0 0 0 #00FFB3; }
-  70% { box-shadow: 0 0 20px 10px #00FFB3; }
-  100% { box-shadow: 0 0 0 0 #00FFB3; }
-}
-</style>
