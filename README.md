@@ -14,7 +14,7 @@
 
 [![CV](https://img.shields.io/badge/-Ver%20mi%20CV-6A5ACD?style=for-the-badge&logo=readme&logoColor=white)](https://ricardoyone.github.io/CV---RICARDO-YONE-LEON-ESTELA/)
 [![Teléfono](https://img.shields.io/badge/-%2B51%20930236710-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+51930236710)
-[![RICARDOYONE@hotmail.com](https://img.shields.io/badge/RICARDOYONE@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardoyone19@gmail.com)
+[![ricardoyone19@gmail.com](https://img.shields.io/badge/RICARDOYONE@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardoyone19@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-yon%C3%A9-le%C3%B3n-688762225/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RicardoYone)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/ricardoyone/projects)
